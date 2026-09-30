@@ -34,12 +34,20 @@
 This engineering handbook and its operational scripts are cryptographically bound to the following production Technocore DID identity:
 
 * **Operator DID**:  
-  `did:key:z6MkgwgcYFVoFe7AdwLneXU27wyWoVaZPHMSPHvDQBD1N2J1`
+  `did:key:z6MktD5RTdHfkqk6svDTWNfbkm3gpxEGoEVJ9239R2XerJXD`
 * **Canonical Specification**: `technocore-contribution-proof-v1`
 * **Independent Verification**:
   ```bash
   python technocore_agent.py verify-proof contribution-proof.json
   ```
+
+---
+
+## 📖 Operational Documentation & Runbooks
+
+* 📘 **[Linux Systemd Hardening & Resource Isolation Guide](docs/systemd_hardening.md)**: Production systemd unit template, cgroups v2 limits (`CPUQuota=30%`), and memory ceiling sandboxing.
+* 🛠 **[Troubleshooting & Decision Tree Runbook](docs/troubleshooting_runbook.md)**: Handling `InvalidNonce` (409), NTP drift, network split-brain, and TLS timeout recovery.
+* 🩺 **[Node Healthcheck Diagnostic Utility](scripts/node_healthcheck.sh)**: Executable bash probe for system swap verification and Technocore endpoint reachability.
 
 ---
 
