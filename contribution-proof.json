@@ -1,7 +1,7 @@
 {
   "schema": "technocore-contribution-proof-v1",
-  "did": "did:key:z6MktD5RTdHfkqk6svDTWNfbkm3gpxEGoEVJ9239R2XerJXD",
+  "did": "did:key:z6MktD5RTdHfkqk6svDTWNfbkm3gpxeGoEVj9239R2XerJXD",
   "artifact_url": "https://github.com/zwf5458/FLOP-Operator-Handbook/blob/main/README.md",
-  "commit": "70f0298bd66d5950c17939f1f04f12c0c0ec90be",
-  "signature": "IXtHpAgLClXoxD-dy_vKIc00XPb91MxypmzFNvZffZ3-CY6toTnSmaCmzFV74C5abPMjR9ZK8UmNjulwDBw6DA"
+  "commit": "08f6da1c6594c583e7bc3875277b0b35139c2dfd",
+  "signature": "AgViGh5ZFX7XJbHUENjpAPZpqqt1hJULZqcgq7GFMN3Q7yBIK__IlXuJeTYnlOJRKYftS2TzkHm56FOKIYGMDA"
 }
