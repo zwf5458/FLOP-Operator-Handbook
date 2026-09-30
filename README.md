@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/flop_banner.png" alt="FLOP Network" width="520" />
+</p>
+
 # 🛰 FLOP Technocore: Headless Node & Autonomous Agent Operator's Handbook
 
 ### Production Engineering Guide & Cryptographic Proof-of-Inference for FLOP Network
